@@ -1,0 +1,6 @@
+Date,Portfolio,Activity,Symbol,SharesBought,EntryPrice,Commission,EntryNote,StopLoss,TargetPrice,TargetDate,ExitDate,ExitPrice
+2025-07-14,My Portfolio,Long,OKLO,10,56.48,0,malibu,54,60,2025-07-14,2025-07-14,57.11
+2025-07-14,Portfolio A,Long,CCL,10,29.5,0,a line,28,32,2025-07-14,2025-07-14,NA
+2025-07-14,My Portfolio,Long,CCL,10,30,0,a,28,32,2025-07-14,2025-07-14,NA
+2025-07-14,My Portfolio,Long,CAH,10,155,0,newone,150,160,2025-07-14,2025-07-14,NA
+2025-07-14,Portfolio B,Long,AIR,10,100,1,a line,98,102,2025-07-14,2025-07-14,NA
